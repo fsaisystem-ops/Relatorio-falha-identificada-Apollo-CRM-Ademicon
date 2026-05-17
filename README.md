@@ -151,5 +151,4 @@ Este relatório documenta as falhas identificadas na integração do Apollo e fo
 
 ---
 
-**Documento gerado por:** Nakaya Engenharia  
-**Contato:** 5512991824007
+**Documento gerado por:** Nakaya Engenharia
